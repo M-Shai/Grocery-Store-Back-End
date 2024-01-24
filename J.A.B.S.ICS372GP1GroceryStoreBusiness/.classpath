@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="vang/ics372/gp1/grocerystore/business/iterators/FilteredIterator.java|vang/ics372/gp1/grocerystore/business/iterators/SafeAbstractIterator.java|vang/ics372/gp1/grocerystore/business/facade/DataTransfer.java|vang/ics372/gp1/grocerystore/business/iterators/SafeTransactionListIterator.java|vang/ics372/gp1/grocerystore/business/iterators/FilterIterator.java|vang/ics372/gp1/grocerystore/business/iterators/SafeTransactionIterator.java|vang/ics372/gp1/grocerystore/business/interfaces/AbstractList.java|vang/ics372/gp1/grocerystore/business/interfaces/IteratorVisitor.java|vang/ics372/gp1/grocerystore/business/interfaces/Data.java|vang/ics372/gp1/grocerystore/business/interfaces/Matchable.java|vang/ics372/gp1/grocerystore/business/tests/|vang/ics372/gp1/grocerystore/business/test/JunitTestMemberCase.java|vang/ics372/gp1/grocerystore/business/test/JunitTestProductCase.java|vang/ics372/gp1/grocerystore/business/test/JunitTestSuite.java|vang/ics372/gp1/grocerystore/business/test/TestRunner.java|vang/ics372/gp1/grocerystore/business/entities/Transaction.java|vang/ics372/gp1/grocerystore/business/exceptions/|vang/ics372/gp1/grocerystore/business/interfaces/" kind="src" path="j.a.b.s.ics372.gp1.grocerystore.business"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Javalib/JUnit/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Javalib/JUnit/junit-4.13.2.jar"/>
+	<classpathentry kind="output" path="bin/j.a.b.s.ics372.gp1.grocerystore.business"/>
+</classpath>
